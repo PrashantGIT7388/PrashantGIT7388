@@ -19,14 +19,14 @@
 <br>💻 Know more about me Portfilio(https://prashant-yadav.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/PRASHANT-YADAV?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me deotadayal27@gmail.com<br>
+<br>📫 How to reach me yd.pt180@gmail.com<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASHANT-YADAV&label=Profile%20views&color=0e75b6&style=flat" alt="Prashant_Yadav" /> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
 <p align="center">
-      <a href="https://www.linkedin.com/in/prashant-yadav-168548258/" target="_blank">
+      <a href="https://www.linkedin.com/in/prashant-yadav-694230240/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
 </p>
 <br />
