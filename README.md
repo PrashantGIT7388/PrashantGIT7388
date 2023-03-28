@@ -1,5 +1,5 @@
 <!----------------------------------- Banner Section ------------------------------------>
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://prashant-yadav.github.io)
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://prashantgit7388.github.io)
 <h1 align="center">Hi 👋, I'm Prashant Yadav</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,7 +16,7 @@
 
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1_UxYWbjSqUUXLKOuoqWWw_3-EXMsdU15/view?usp=share_link=download)<br>
-<br>💻 Know more about me Portfilio(https://prashantgit7388.github.io/)<br>
+<br>💻 Know more about me Portfilio(https://prashantgit7388.github.io)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/PrashantGIT7388?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me yd.pt180@gmail.com<br>
