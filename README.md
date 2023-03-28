@@ -15,7 +15,7 @@
 
 
 <br>🌱 I’m currently learning MERN Stack.<br>
-<br>📄 Check out my [Resume](https://drive.google.com/uc?id=1XQsL2a-Jw_dGKsCm4KvWWunVTALaojUW&export=download)<br>
+<br>📄 Check out my [Resume](https://drive.google.com/file/d/1_UxYWbjSqUUXLKOuoqWWw_3-EXMsdU15/view?usp=share_link=download)<br>
 <br>💻 Know more about me Portfilio(https://prashant-yadav.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/PRASHANT-YADAV?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
