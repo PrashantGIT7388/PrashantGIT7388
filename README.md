@@ -16,7 +16,7 @@
 
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1_UxYWbjSqUUXLKOuoqWWw_3-EXMsdU15/view?usp=share_link=download)<br>
-<br>💻 Know more about me Portfilio(https://prashantgit7388.github.io)<br>
+<br>💻 Know more about me Portfilio(https://prashantgit7388.github.io )<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/PrashantGIT7388?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me yd.pt180@gmail.com<br>
@@ -91,7 +91,7 @@
  <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRASHANT-YADAV&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 
     
-  <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PRASHANT-YADAV&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
+  <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PRASHANT-YADAV&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
  
 
   
