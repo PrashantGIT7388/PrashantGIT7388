@@ -15,11 +15,13 @@
 
 
 <br>🌱 I’m currently learning MERN Stack.<br>
-<br>📄 Check out my [Resume](https://drive.google.com/file/d/1_UxYWbjSqUUXLKOuoqWWw_3-EXMsdU15/view?usp=share_link=download)<br>
-<br>💻 Know more about me Portfilio(https://prashantgit7388.github.io/ )<br>
+<br>📄 Check out my [Resume]<br>
+//(https://drive.google.com/file/d/1_UxYWbjSqUUXLKOuoqWWw_3-EXMsdU15/view?usp=share_link=download)
+<br>💻 Know more about me Portfilio<br>
+//(https://prashantgit7388.github.io/ )
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/PrashantGIT7388?tab=repositories)<br>
-<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me yd.pt180@gmail.com<br>
+<br>💬 Ask me about HTML, CSS, JavaScript , React, Node.js , Express.js <br>
+<br>📫 How to reach me yd.pt182@gmail.com<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASHANT-YADAV&label=Profile%20views&color=0e75b6&style=flat" alt="Prashant_Yadav" /> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
